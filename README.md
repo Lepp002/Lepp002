@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lepp002
 - 👀 I’m interested in you!
-- 🌱 I’m currently learning Roblox.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email.
 - 😄 Pronouns: Don't care...
